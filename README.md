@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nayah! 👋 
+### Aspiring SOC Analyst | Google Cybersecurity Professional Certificate
 
-<!--
-**VellumVault/VellumVault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a detail-oriented professional transitioning into the Cybersecurity field. My background in handling high-volume sensitive data (PII) under HIPAA regulations has given me a "security-first" mindset that I now apply to threat detection and incident response.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+* **Learning:** Finalizing my Google Cybersecurity Professional Certificate.
+* **Building:** Technical lab reports for SIEM triage and Network Security.
+* **Goals:** Transitioning into a Tier 1 SOC Analyst or Junior Security Analyst role (Remote).
+
+## 🛠️ Tech Stack
+* **Tools:** Splunk, Google Chronicle, Wireshark, Tcpdump.
+* **Skills:** Log Analysis, Incident Triage, Python Automation, SQL.
+* **Systems:** Linux (CLI), Windows, Virtual Machines.
+
+## 📫 Let's Connect!
+* **LinkedIn:** [nayah-trotman-677578247](https://www.linkedin.com/in/nayah-trotman-677578247/)
+* **Email:** [nayahsade@icloud.com](mailto:nayahsade@icloud.com)
+
+---
+*"The best way to predict the future is to secure it."*
