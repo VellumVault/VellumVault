@@ -8,6 +8,7 @@ I am a detail-oriented professional transitioning into the Cybersecurity field. 
 ## 🚀 What I'm Working On
 * **Learning:** Finalizing my Google Cybersecurity Professional Certificate.
 * **Building:** Technical lab reports for SIEM triage and Network Security.
+* *Completed:* [Splunk Data Analytics & Operational Intelligence](https://github.com/VellumVault/splunk-data-analytics-portfolio) - Transforming raw web logs into actionable business insights.
 * **Goals:** Transitioning into a Tier 1 SOC Analyst or Junior Security Analyst role (Remote).
 
 ## 🛠️ Tech Stack
